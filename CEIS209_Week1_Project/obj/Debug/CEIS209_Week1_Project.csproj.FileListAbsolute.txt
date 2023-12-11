@@ -1,0 +1,10 @@
+C:\Users\tyler\Desktop\CEIS209\projects\CEIS209_Week1_Project\bin\Debug\CEIS209_Week1_Project.exe.config
+C:\Users\tyler\Desktop\CEIS209\projects\CEIS209_Week1_Project\bin\Debug\CEIS209_Week1_Project.exe
+C:\Users\tyler\Desktop\CEIS209\projects\CEIS209_Week1_Project\bin\Debug\CEIS209_Week1_Project.pdb
+C:\Users\tyler\Desktop\CEIS209\projects\CEIS209_Week1_Project\obj\Debug\CEIS209_Week1_Project.csproj.AssemblyReference.cache
+C:\Users\tyler\Desktop\CEIS209\projects\CEIS209_Week1_Project\obj\Debug\CEIS209_Week1_Project.Properties.Resources.resources
+C:\Users\tyler\Desktop\CEIS209\projects\CEIS209_Week1_Project\obj\Debug\CEIS209_Week1_Project.csproj.GenerateResource.cache
+C:\Users\tyler\Desktop\CEIS209\projects\CEIS209_Week1_Project\obj\Debug\CEIS209_Week1_Project.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\CEIS209\projects\CEIS209_Week1_Project\obj\Debug\CEIS209_Week1_Project.exe
+C:\Users\tyler\Desktop\CEIS209\projects\CEIS209_Week1_Project\obj\Debug\CEIS209_Week1_Project.pdb
+C:\Users\tyler\Desktop\CEIS209\projects\CEIS209_Week1_Project\obj\Debug\CEIS209_Week1_Project.MainForm.resources
